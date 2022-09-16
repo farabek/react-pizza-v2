@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Stack:
+
 ReactJS 18
 TypeScript
 Redux Toolkit (хранение данных / пицц)
