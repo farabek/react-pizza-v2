@@ -5,7 +5,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Stack:
 
 ReactJS 18
-
 TypeScript
 Redux Toolkit (хранение данных / пицц)
 React Router v6 (навигация)
